@@ -1,2 +1,5 @@
-# Todo_App
-Todo task application in vuejs
+# tejas-todo-app
+
+cd vue-todo-app
+npm install
+npm run serve
