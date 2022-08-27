@@ -1,5 +1,6 @@
-# tejas-todo-app
+# Todo app in vue js
 
-cd vue-todo-app
+# Run the following commands to run the project -
+
 npm install
 npm run serve
